@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SVtodoapp/static/css/main.78d996b7.chunk.css",
+    "main.js": "/SVtodoapp/static/js/main.fda6a439.chunk.js",
+    "main.js.map": "/SVtodoapp/static/js/main.fda6a439.chunk.js.map",
+    "runtime~main.js": "/SVtodoapp/static/js/runtime~main.ea6f8672.js",
+    "runtime~main.js.map": "/SVtodoapp/static/js/runtime~main.ea6f8672.js.map",
+    "static/js/2.65324c96.chunk.js": "/SVtodoapp/static/js/2.65324c96.chunk.js",
+    "static/js/2.65324c96.chunk.js.map": "/SVtodoapp/static/js/2.65324c96.chunk.js.map",
+    "index.html": "/SVtodoapp/index.html",
+    "precache-manifest.596f6982c9c414601505be6ddba6b6f0.js": "/SVtodoapp/precache-manifest.596f6982c9c414601505be6ddba6b6f0.js",
+    "service-worker.js": "/SVtodoapp/service-worker.js",
+    "static/css/main.78d996b7.chunk.css.map": "/SVtodoapp/static/css/main.78d996b7.chunk.css.map"
+  }
+}
